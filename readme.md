@@ -28,3 +28,5 @@
    <p>* Awesome preinstalled themes</p>
 </h2>
 <h2>Installation</h2>
+ <h3>Windows</h3>
+    `git clone`
