@@ -16,8 +16,7 @@
          <img src="NeoVim4.png" alt="" />
          <p></p>
          <img src="NeoVim5.png" alt="" />
-
-         <p></p>
+         
       </div>
    </h2>
    <h2>Features</h2>
