@@ -1,1 +1,1 @@
-!['hello'](~/NeoVim2.png)
+!['hello'](NeoVim2.png)
