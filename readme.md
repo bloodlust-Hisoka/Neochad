@@ -25,4 +25,5 @@
    <p>* Easy to add or delete plugins</p>
    <p>* Fast startup time</p>
    <p>* Plugins are loaded only when needed</p>
+   <p>* Awesome preinstalled themes</p>
 </h2>
