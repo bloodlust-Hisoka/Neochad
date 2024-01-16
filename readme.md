@@ -30,7 +30,7 @@
    <p>* Rigrep</p>
    <p>* Mingw is must for windows</p>
    <p>* Gnuwin32 is must for windows</p>
-   <p>* Nerd font as terminal font -optional</p>
+   <p>* Nerd font -optional</p>
 
 <h2>Installation</h2>
  <h3>Windows</h3>
