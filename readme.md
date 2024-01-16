@@ -33,5 +33,6 @@
     git clone https://github.com/bloodlust-Hisoka/Neochad.git $HOME/\AppData\Local\nvim --depth && nvim
 
 <h3>Linux or Mac</h3>
+
     git clone https://github.com/bloodlust-Hisoka/Neochad.git .config/nvim --depth && nvim
     
