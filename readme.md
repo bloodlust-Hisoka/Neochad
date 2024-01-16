@@ -1,6 +1,10 @@
 <h1>NeoChad</h1>
 <p>NeoChad is an base ide like configuration for NeoVim</p>
+# Neochad/
 
+<a href="https://dotfyle.com/bloodlust-Hisoka/neochad"><img src="https://dotfyle.com/bloodlust-Hisoka/neochad/badges/plugins?style=flat" /></a>
+<a href="https://dotfyle.com/bloodlust-Hisoka/neochad"><img src="https://dotfyle.com/bloodlust-Hisoka/neochad/badges/leaderkey?style=flat" /></a>
+<a href="https://dotfyle.com/bloodlust-Hisoka/neochad"><img src="https://dotfyle.com/bloodlust-Hisoka/neochad/badges/plugin-manager?style=flat" /></a>
 <h2>
    Showcase
    <h2>
