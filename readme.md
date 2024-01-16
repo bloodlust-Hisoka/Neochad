@@ -1,11 +1,10 @@
-
 <h1>NeoChad</h1>
 <p>NeoChad is an base ide like configuration for NeoVim</p>
 <p>Users can configure it to their likings</p>
 <h2>
    Showcase
    <h2>
-      <div align='center>
+      <div align="center">
          <h2></h2>
          <img src="Neovim.png" alt="" />
          <p></p>
@@ -16,7 +15,9 @@
          <img src="NeoVim4.png" alt="" />
          <p></p>
          <img src="NeoVim5.png" alt="" />
-         </div>
+
+         <p></p>
+      </div>
    </h2>
    <h2>Features</h2>
    <p>* Lightweight but powerfull</p>
