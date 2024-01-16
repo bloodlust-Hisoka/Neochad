@@ -5,7 +5,7 @@
 <h2>
    Showcase
    <h2>
-      
+      <div align='center>
          <h2></h2>
          <img src="Neovim.png" alt="" />
          <p></p>
@@ -16,8 +16,7 @@
          <img src="NeoVim4.png" alt="" />
          <p></p>
          <img src="NeoVim5.png" alt="" />
-         
-      
+         </div>
    </h2>
    <h2>Features</h2>
    <p>* Lightweight but powerfull</p>
