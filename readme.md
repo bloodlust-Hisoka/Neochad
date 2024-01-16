@@ -17,7 +17,7 @@
          <img src="NeoVim5.png" alt="" />
 
          <p></p>
-      </div>
+      
    </h2>
    <h2>Features</h2>
    <p>* Lightweight but powerfull</p>
