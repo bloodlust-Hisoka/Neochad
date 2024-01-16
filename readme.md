@@ -27,8 +27,9 @@
    <p>* Plugins are loaded only when needed</p>
    <p>* Awesome preinstalled themes</p>
    <h2>Prerequisites </h2>
-   <p>Rigrep</p>
-   <p>Mingw is must for windows</p>
+   <p>* Rigrep</p>
+   <p>* Mingw is must for windows</p>
+   <p>* Gnuwin32 is must for windows</p>
 
 <h2>Installation</h2>
  <h3>Windows</h3>
