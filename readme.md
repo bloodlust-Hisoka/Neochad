@@ -45,16 +45,11 @@
 <h3>Adding plugins</h3>
 <p>Add file in plugins folder in configuration folder and return table like this</p>
 <h4>.config/nvim/lua/User/plugins/example.lua</h4>
-
-
-
-
+```lua
 return{
   'example/example.nvim', -- plugin url
   config =function()
   --plugin configuration here
   end
   }
-  
-
-
+  ```
