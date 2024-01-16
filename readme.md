@@ -1,6 +1,5 @@
 <h1>NeoChad</h1>
-<p>NeoChad is an base ide like configuration for NeoVim</p>
-# Neochad
+<p>NeoChad is an chad neovim configuration </p>
 
 <a href="https://dotfyle.com/bloodlust-Hisoka/neochad"><img src="https://dotfyle.com/bloodlust-Hisoka/neochad/badges/plugins?style=flat" /></a>
 <p></p>
