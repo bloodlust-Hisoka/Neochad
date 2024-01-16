@@ -47,6 +47,7 @@
 <h4>.config/nvim/lua/User/plugins/example.lua</h4>
 ```lua
 
+
 return{
   'example/example.nvim', -- plugin url
   config =function()
