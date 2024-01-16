@@ -41,3 +41,6 @@
 
     git clone https://github.com/bloodlust-Hisoka/Neochad.git .config/nvim --depth && nvim
     
+<h2>Plugins</h2>
+<h3>Adding plugins</h3>
+<p>Add file in plugins folder in configuration folder</p>
