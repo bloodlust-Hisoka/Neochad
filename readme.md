@@ -26,9 +26,12 @@
    <p>* Fast startup time</p>
    <p>* Plugins are loaded only when needed</p>
    <p>* Awesome preinstalled themes</p>
-</h2>
+
 <h2>Installation</h2>
  <h3>Windows</h3>
     
-    git clone https://github.com/bloodlust-Hisoka/Neochad.git $HOME/\AppData\Local\nvim --depth<br>
+    git clone https://github.com/bloodlust-Hisoka/Neochad.git $HOME/\AppData\Local\nvim --depth && nvim
+
+<h3>Linux or Mac</h3>
+    git clone https://github.com/bloodlust-Hisoka/Neochad.git .config/nvim --depth && nvim
     
