@@ -30,5 +30,7 @@
 <h2>Installation</h2>
  <h3>Windows</h3>
     ```console
+    theexample@DESKTOP
+    NUEMRRD: ~$
     git clone https://github.com/bloodlust-Hisoka/Neochad.git $HOME/\AppData\Local\nvim --depth
     ```
