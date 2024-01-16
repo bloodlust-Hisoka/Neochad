@@ -29,4 +29,4 @@
 </h2>
 <h2>Installation</h2>
  <h3>Windows</h3>
-    `git clone`
+    `git clone https://github.com/bloodlust-Hisoka/Neochad.git $HOME/\AppData\Local\nvim --depth`
