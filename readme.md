@@ -1,6 +1,6 @@
 <h1>NeoChad</h1>
 <p>NeoChad is an base ide like configuration for NeoVim</p>
-<p>Users can configure it to their likings</p>
+
 <h2>
    Showcase
    <h2>
