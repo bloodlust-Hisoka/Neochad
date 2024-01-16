@@ -27,3 +27,4 @@
    <p>* Plugins are loaded only when needed</p>
    <p>* Awesome preinstalled themes</p>
 </h2>
+<h2>Installation</h2>
