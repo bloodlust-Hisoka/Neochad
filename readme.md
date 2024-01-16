@@ -54,7 +54,6 @@ return{
   --plugin configuration here
   end
   }
-
 ```
   
 
