@@ -5,6 +5,7 @@
 <a href="https://dotfyle.com/bloodlust-Hisoka/neochad"><img src="https://dotfyle.com/bloodlust-Hisoka/neochad/badges/plugins?style=flat" /></a>
 <p></p>
 <a href="https://dotfyle.com/bloodlust-Hisoka/neochad"><img src="https://dotfyle.com/bloodlust-Hisoka/neochad/badges/leaderkey?style=flat" /></a>
+<p></p>
 <a href="https://dotfyle.com/bloodlust-Hisoka/neochad"><img src="https://dotfyle.com/bloodlust-Hisoka/neochad/badges/plugin-manager?style=flat" /></a>
 <h2>
    Showcase
