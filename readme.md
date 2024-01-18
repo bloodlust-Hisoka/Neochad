@@ -141,7 +141,8 @@ Neochad is a base config so don't expect updates.each file has comments so you c
 + [stevearc/dressing.nvim](https://dotfyle.com/plugins/stevearc/dressing.nvim)
 <h3>Adding plugins</h3>
 <p>Add file in plugins folder in configuration folder and return table like this</p>
-<h4>.config/nvim/lua/User/plugins/example.lua or %USERPROFILE%\AppData\Local\nvim\lua\User\plugins\example.lua  For Windows OS </h4>
+<h4>.config/nvim/lua/User/plugins/example.lua</h4>
+<h4>%USERPROFILE%\AppData\Local\nvim\lua\User\plugins\example.lua  For Windows OS</h4>
 
 ```lua
 return{
