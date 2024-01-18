@@ -144,9 +144,10 @@ Neochad is a base config so don't expect updates.each file has comments so you c
 <h4>.config/nvim/lua/User/plugins/example.lua</h4>
 
 ```lua
-    return{
+return{
   'example/example.nvim', -- plugin url
   config =function()
   --plugin configuration here
   end
-  } ```
+  }
+```
