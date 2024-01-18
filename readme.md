@@ -153,3 +153,5 @@ return{
   end
   }
 ```
+### Installing Lsp
+<p>To install Lsp for new language run Mason cmd and install the lsp.No configuration is needed</p>
