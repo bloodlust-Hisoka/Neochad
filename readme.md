@@ -39,13 +39,11 @@
 
 <h2>Installation</h2>
  <h3>Windows</h3>
-```console   
     git clone https://github.com/bloodlust-Hisoka/Neochad.git %USERPROFILE%\AppData\Local\nvim --depth && nvim
-```
+
 <h3>Linux or Mac</h3>
-```console
     git clone https://github.com/bloodlust-Hisoka/Neochad.git .config/nvim --depth && nvim
-```
+
 ## Note
 Neochad is a base config so don't expect updates.each file has comments so you can easily configure it.plugins can be updated by Lazy
 ## Plugins
