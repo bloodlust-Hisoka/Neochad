@@ -14,5 +14,5 @@ vim.opt.termguicolors = true
 vim.g.t_Co = '256'
 vim.opt.undodir = os.getenv 'HOME' .. '/.vim/undodir'
 vim.opt.undofile = true
-vim.opt.cursorline = require('User.config.config').cursorline
+vim.opt.cursorline = true
 vim.nowrap = true
