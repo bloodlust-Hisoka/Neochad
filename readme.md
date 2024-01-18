@@ -40,7 +40,7 @@
 <h2>Installation</h2>
  <h3>Windows</h3>
     
-    git clone https://github.com/bloodlust-Hisoka/Neochad.git %USERPROFILE%/AppData\Local\nvim --depth && nvim
+    git clone https://github.com/bloodlust-Hisoka/Neochad.git %USERPROFILE%\AppData\Local\nvim --depth && nvim
 
 <h3>Linux or Mac</h3>
 
