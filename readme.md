@@ -39,11 +39,11 @@
 
 <h2>Installation</h2>
  <h3>Windows</h3>
-    
+```console   
     git clone https://github.com/bloodlust-Hisoka/Neochad.git %USERPROFILE%\AppData\Local\nvim --depth && nvim
-```console
+```
 <h3>Linux or Mac</h3>
-
+```console
     git clone https://github.com/bloodlust-Hisoka/Neochad.git .config/nvim --depth && nvim
 ```
 ## Note
