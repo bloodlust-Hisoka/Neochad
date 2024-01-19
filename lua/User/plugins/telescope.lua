@@ -60,7 +60,7 @@ return {
          'nvim-tree/nvim-web-devicons',
       },
       config = function()
-         vim.keymap.set('n', '<leader>fb', ':Telescope file_browser<Cr>', { desc = 'Toggle telescope file browser ' })
+         vim.keymap.set('n', '<leader>bf', ':Telescope file_browser<Cr>', { desc ='Browse files via telescope ' })
       end,
    },
 }
