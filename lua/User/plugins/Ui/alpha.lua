@@ -71,7 +71,6 @@ return {
          '                                                     ',
       }
       dashboard.section.buttons.val = {
-         dashboard.button('<leader>fg', '󰈭  Find Word', 'Telescope live_grep<Cr>'),
          dashboard.button('<leader>fr', '󰈚  Recent Files', 'Telescope oldfiles<CR>'),
          dashboard.button('<leader>ff', '  Find File', ':Telescope find_files<CR>'),
          dashboard.button('<leader>th', '  Themes', ':Telescope colorscheme<CR>'),
